@@ -1,6 +1,6 @@
 let first_Lan = "C is fun";
 let sec_Lan = "Python is cool";
-let third_Lan = "Java is amazing";
+let third_Lan = "JavaScript is amazing";
 
 console.log(first_Lan);
 console.log(sec_Lan);
