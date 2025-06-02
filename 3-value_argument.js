@@ -11,3 +11,4 @@ if (arg === undefined) {
 } else {
   // If an argument is passed, print its value
   console.log(arg);
+}
